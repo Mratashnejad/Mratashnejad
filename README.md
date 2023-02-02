@@ -2,7 +2,7 @@
 
 its Me Alireza Atashnejad 
 
-I graduated with a bachelor's degree in Software engineering technology. I have two years of experience in implementing web applications using python programming language.
+I graduated with a bachelor's degree in Computer software and technology. I have two years of experience in implementing web applications using python programming language.
 
 Ai and Machine learning systems and collaborating with others to improve the overall design are what I always long for. I have experience in Machine learning libraries such as Tensorflow, OpenCV, Pandas, and Numpy.
 
