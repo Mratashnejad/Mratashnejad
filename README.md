@@ -1,26 +1,27 @@
-### Hi there 👋  
+Hi there 👋
+Alireza Atashnejad - Data Scientist
+I am a passionate Data Scientist with a bachelor's degree in Computer Software and Technology, and over 3 years of experience in Python programming language.
 
-its Me Alireza Atashnejad 
+My area of expertise includes building and deploying Neural networks, CNN, RNN,GAN and other AI models using popular Machine Learning libraries such as Tensorflow, OpenCV, Pandas, and Numpy. matplotlib , and the the Ai technologys such as ChatGPT , I also have experience in Google Cloud and Google Colab, which I use to train and test models on large datasets.
 
-I graduated with a bachelor's degree in Computer software and technology. I have two years of experience in implementing web applications using python programming language.
+I have a special interest in Ai major and Machine larning Project and Although I usually work individually on several projects uploaded on my GitHub, I am excited to gain experience working in a team on programming.
 
-Ai and Machine learning systems and collaborating with others to improve the overall design are what I always long for. I have experience in Machine learning libraries such as Tensorflow, OpenCV, Pandas, and Numpy.
+Apart from my strong Python programming skills, I have a good understanding of Object-Oriented Programming, Git, AWS, and Docker. I also have a good reputation on Stack Overflow.
 
-I have special interests in designing web applications and automated websites and building tools and frameworks. I work individually on several projects uploaded on my GitHub but I haven't experienced working in a team on programming. I know very well the basics of python - OOP - Django - Djangorestframework API - Git and have familiarity with AWS and Docker. I have a good reputation on Stackoverflow as well.
-
-My goal is to continue my career as a software engineer in this area in an agile development team with developers and designers in a comprehensive, efficient, and well-organized way in Artificial intelligence, Data Science.
+My goal is to continue my career as a Data Scientist and AI expert in an agile development team with developers and designers in a comprehensive, efficient, and well-organized way.
 
 Python Django API rest framework
 
-Full-stack developer, Ai, ML Django, React.js, MongoDB
+Kaggle : https://www.kaggle.com/alirezaatashnejad
 
-linkedin : https://www.linkedin.com/in/alirezaatashnejad/
+LinkedIn : https://www.linkedin.com/in/alirezaatashnejad/
 
-StackOverflow : https://stackoverflow.com/users/13326869/alireza-atashnejad
+Stack Overflow : https://stackoverflow.com/users/13326869/alireza-atashnejad
 
+Upwork : Alireza Atashnejad
 
+github
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 <!--
 **Mratashnejad/Mratashnejad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
