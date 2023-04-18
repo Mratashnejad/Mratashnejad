@@ -1,5 +1,5 @@
-Hi there 👋
-Alireza Atashnejad - Data Scientist
+### Hi there 👋
+## Alireza Atashnejad - Data Scientist
 I am a passionate Data Scientist with a bachelor's degree in Computer Software and Technology, and over 3 years of experience in Python programming language.
 
 My area of expertise includes building and deploying Neural networks, CNN, RNN,GAN and other AI models using popular Machine Learning libraries such as Tensorflow, OpenCV, Pandas, and Numpy. matplotlib , and the the Ai technologys such as ChatGPT , I also have experience in Google Cloud and Google Colab, which I use to train and test models on large datasets.
