@@ -1,10 +1,10 @@
 ### Hi there 👋
 ## Alireza Atashnejad - Data Scientist
-I am a passionate Data Scientist with a bachelor's degree in Computer Software and Technology, and over 3 years of experience in Python programming language.
+I am a passionate Data Scientist with a bachelor's degree in Computer Software and Technology and over 3 years of experience.
 
-My area of expertise includes building and deploying Neural networks, CNN, RNN,GAN and other AI models using popular Machine Learning libraries such as Tensorflow, OpenCV, Pandas, and Numpy. matplotlib , and the the Ai technologys such as ChatGPT , I also have experience in Google Cloud and Google Colab, which I use to train and test models on large datasets.
+My area of expertise includes building and deploying Neural networks, CNN, RNN, GANs, Deep neural networks, Logistic regression, Linear regression, Decision trees, Random forest, and other AI models using popular Machine Learning libraries such as Tensorflow, Keras, OpenCV, Pandas, and Numpy. Matplotlib, and the Ai technologies such as ChatGPT, I also have experience in Google Cloud and Google Colab, which I use to train and test models on large datasets.
 
-I have a special interest in Ai major and Machine larning Project and Although I usually work individually on several projects uploaded on my GitHub, I am excited to gain experience working in a team on programming.
+I have a special interest in Ai major and Machine Learning Projects and Although I usually work individually on several projects uploaded on my GitHub, I am excited to gain experience working in a team on programming.
 
 Apart from my strong Python programming skills, I have a good understanding of Object-Oriented Programming, Git, AWS, and Docker. I also have a good reputation on Stack Overflow.
 
@@ -12,13 +12,13 @@ My goal is to continue my career as a Data Scientist and AI expert in an agile d
 
 Python Django API rest framework
 
-Kaggle : https://www.kaggle.com/alirezaatashnejad
+Kaggle: https://www.kaggle.com/alirezaatashnejad
 
-LinkedIn : https://www.linkedin.com/in/alirezaatashnejad/
+LinkedIn: https://www.linkedin.com/in/alirezaatashnejad/
 
-Stack Overflow : https://stackoverflow.com/users/13326869/alireza-atashnejad
+Stack Overflow: https://stackoverflow.com/users/13326869/alireza-atashnejad
 
-Upwork : Alireza Atashnejad
+Upwork: Alireza Atashnejad
 
 github
 
