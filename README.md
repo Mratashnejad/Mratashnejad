@@ -1,6 +1,7 @@
 ### Hi there 👋
-## Alireza Atashnejad - Data Scientist - full stack Developer
+## Alireza Atashnejad - Data Scientist - Full Stack Developer ( Python - Node.js - React.js - Next.js ) - SQL - MongoDB -
 I am a passionate Data Scientist with a bachelor's degree in Computer Software and Technology and over 3 years of experience.
+but for more than 8 years im with the codes such as assembly - Visulbasics - C - C++ - C# - Asp.net - Python - JAVA 
 
 My area of expertise includes building and deploying Neural networks, CNN, RNN, GANs, Deep neural networks, Logistic regression, Linear regression, Decision trees, Random forest, and other AI models using popular Machine Learning libraries such as Tensorflow, Keras, OpenCV, Pandas, and Numpy. Matplotlib, and AI technologies such as ChatGPT, I also have experience in Google Cloud and Google Colab, which I use to train and test models on large datasets.
 
