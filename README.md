@@ -1,10 +1,10 @@
 ### Hi there 👋
-## Alireza Atashnejad - Data Scientist
+## Alireza Atashnejad - Data Scientist - full stack Developer
 I am a passionate Data Scientist with a bachelor's degree in Computer Software and Technology and over 3 years of experience.
 
-My area of expertise includes building and deploying Neural networks, CNN, RNN, GANs, Deep neural networks, Logistic regression, Linear regression, Decision trees, Random forest, and other AI models using popular Machine Learning libraries such as Tensorflow, Keras, OpenCV, Pandas, and Numpy. Matplotlib, and the Ai technologies such as ChatGPT, I also have experience in Google Cloud and Google Colab, which I use to train and test models on large datasets.
+My area of expertise includes building and deploying Neural networks, CNN, RNN, GANs, Deep neural networks, Logistic regression, Linear regression, Decision trees, Random forest, and other AI models using popular Machine Learning libraries such as Tensorflow, Keras, OpenCV, Pandas, and Numpy. Matplotlib, and AI technologies such as ChatGPT, I also have experience in Google Cloud and Google Colab, which I use to train and test models on large datasets.
 
-I have a special interest in Ai major and Machine Learning Projects and Although I usually work individually on several projects uploaded on my GitHub, I am excited to gain experience working in a team on programming.
+I have a special interest in AI and Machine Learning Projects. Although I usually work individually on several projects uploaded on my GitHub, I am excited to gain experience working in a team on programming.
 
 Apart from my strong Python programming skills, I have a good understanding of Object-Oriented Programming, Git, AWS, and Docker. I also have a good reputation on Stack Overflow.
 
