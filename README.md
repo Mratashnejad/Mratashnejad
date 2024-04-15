@@ -1,4 +1,4 @@
-### A passionate Fullstack developer
+###  Fullstack Developer Next.js - React.js - Node.js - MongoDB - MySql - SQL server
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=mratashnejad&label=Profile%20views&color=0e75b6&style=flat" alt="mratashnejad" /> 
@@ -34,16 +34,6 @@
 </a>
 
 
-### Support:
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=mratashnejad&show_icons=true&locale=en" alt="mratashnejad" />
-</p>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mratashnejad&show_icons=true&locale=en&layout=compact" alt="mratashnejad" />
-</p>
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mratashnejad&" alt="mratashnejad" />
-</p>
 <p align="left">
     <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/alirezaata0">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/alirezaata0" />
