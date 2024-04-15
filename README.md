@@ -13,9 +13,8 @@ Next.js - React.js - Node.js - MongoDB - MySql - SQL server
 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/alirezaatashnejad/)
 
 ### Connect with Me
-[![Dev.to](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg)](https://dev.to/mratashnejad)
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/alirezaatashnejad/)
-[![Stack Overflow](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)](https://stackoverflow.com/users/13326869/alireza-atashnejad?tab=profile)
-[![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/alirezaatashnejad)
-
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/alirezaata0)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="30">](https://dev.to/mratashnejad)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30">](https://www.linkedin.com/in/alirezaatashnejad/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="30">](https://stackoverflow.com/users/13326869/alireza-atashnejad?tab=profile)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="30">](https://www.kaggle.com/alirezaatashnejad)
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="120">](https://www.buymeacoffee.com/alirezaata0)
