@@ -1,5 +1,5 @@
 ## Fullstack Developer
-Next.js - React.js - Node.js - MongoDB - MySql - SQL server
+Next.js - Nest.js - React.js - Node.js - Postgres - MongoDB - GraphQl - SQL server - Docker - Redis
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mratashnejad&label=Profile%20views&color=0e75b6&style=flat)
 
