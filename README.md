@@ -5,7 +5,7 @@ Next.js - Nest.js - React.js - Node.js - Postgres - MongoDB - GraphQl - SQL serv
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mratashnejad)
 
-🔭 I’m currently working on **Gtnelu**  
+🔭 I’m currently working on **Gtnelu** and personal website **AliAtish.com**  
 🌱 I’m currently learning **Next.js**  
 🤝 I’m looking for help with **AI**  
 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mratashnejad)  
@@ -14,6 +14,7 @@ Next.js - Nest.js - React.js - Node.js - Postgres - MongoDB - GraphQl - SQL serv
 
 
 ### Connect with Me
+[Personal Web](https://aliatish.com/)  
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="30">](https://dev.to/mratashnejad)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30">](https://www.linkedin.com/in/alirezaatashnejad/)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="30">](https://stackoverflow.com/users/13326869/alireza-atashnejad?tab=profile)
