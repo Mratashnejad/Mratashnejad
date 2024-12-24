@@ -1,5 +1,17 @@
 ## Fullstack Developer - Monorepo
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=mratashnejad&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mratashnejad)
+
+🔭 Currently working on **Gtnelu** & **AliAtish.com**  
+🌱 Learning **Next.js**  
+🤝 Looking for help with **AI**  
+👨‍💻 [All projects on GitHub](https://github.com/Mratashnejad)  
+📄 [LinkedIn](https://www.linkedin.com/in/alirezaatashnejad/)
+---
+
 **Technologies I work with:**
 
 ### Web & Backend
@@ -33,18 +45,7 @@
 
 ### Algorithms & Other
 - **Sorting Algorithms**, **Divide and Conquer**, **AI**, **OTP**
-
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=mratashnejad&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mratashnejad)
-
-🔭 Currently working on **Gtnelu** & **AliAtish.com**  
-🌱 Learning **Next.js**  
-🤝 Looking for help with **AI**  
-👨‍💻 [All projects on GitHub](https://github.com/Mratashnejad)  
-📄 [LinkedIn](https://www.linkedin.com/in/alirezaatashnejad/)
-
 ### Connect with Me:
 - [Personal Web](https://aliatish.com/) | [Dev.to](https://dev.to/mratashnejad) | [LinkedIn](https://www.linkedin.com/in/alirezaatashnejad/)  
 - [Stack Overflow](https://stackoverflow.com/users/13326869/alireza-atashnejad?tab=profile) | [Kaggle](https://www.kaggle.com/alirezaatashnejad) | [Buy Me A Coffee](https://www.buymeacoffee.com/alirezaata0)
