@@ -1,51 +1,53 @@
-## Fullstack Developer - Monorepo
+# Alireza Atashnejad 👋
+### Senior Fullstack Developer | Software Architect
+
+Senior Software Developer with over a decade of experience (Born 1992) specializing in building scalable systems. Expert in **Monorepo** architecture, **Microservices**, and high-performance backend systems.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=mratashnejad&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mratashnejad)
+### 💻 Core Tech Stack
 
-🔭 Currently working on **Gtnelu** & **AliAtish.com**  
-🌱 Learning **Next.js**  
-🤝 Looking for help with **AI**  
-👨‍💻 [All projects on GitHub](https://github.com/Mratashnejad)  
-📄 [LinkedIn](https://www.linkedin.com/in/alirezaatashnejad/)
+- **Languages:** TypeScript, JavaScript, Python, Solidity
+- **Frontend:** Next.js (App Router), React, React Native, Tailwind CSS
+- **Backend:** Nest.js, Node.js, Django, Flask
+- **Communication:** GraphQL, tRPC, REST, Socket.io, RabbitMQ
+- **Database & ORM:** PostgreSQL, MongoDB, Redis, Prisma, TypeORM
+- **Infrastructure:** Docker, Linux, AWS, Google Cloud, GitHub Actions
+
 ---
 
-**Technologies I work with:**
+### 🛠 Specializations
 
-### Web & Backend
-- **Next.js**, **Nest.js**, **React Native**
-- **GraphQL**, **tRPC**, **REST API**
-- **Django**, **Flask**
+* **System Architecture:** Designing robust Microservices and Monorepo structures for enterprise-scale applications.
+* **Web3 & Blockchain:** Developing Smart Contracts with Solidity and Hardhat.
+* **AI & Data:** Implementation of Machine Learning models using TensorFlow, Keras, and Pandas.
+* **Security:** Expert in JWT, OAuth, and secure OTP flow implementations.
 
-### Microservices & Real-Time
-- **Microservices**, **Socket.io**, **RabbitMQ**
-
-### Databases & ORM
-- **PostgreSQL**, **MongoDB**, **Redis**, **Prisma**
-
-### Blockchain & Smart Contracts
-- **Solidity**, **Smart Contracts**, **Blockchain**, **Hardhat**
-
-### Frontend & Styling
-- **JavaScript**, **TypeScript**, **Tailwind CSS**
-
-### Cloud & DevOps
-- **Docker**, **AWS**, **Google Cloud**, **Linux**
-
-### Authentication & Security
-- **JWT**, **OAuth**, **Firebase**
-
-### Machine Learning
-- **TensorFlow**, **Keras**, **Pandas**, **Matplotlib**
-
-### Package Managers & Tools
-- **Git**, **GitHub**, **Npm**, **Pnpm**, **Npx**
-
-### Algorithms & Other
-- **Sorting Algorithms**, **Divide and Conquer**, **AI**, **OTP**
 ---
-### Connect with Me:
-- [Personal Web](https://aliatish.com/) | [Dev.to](https://dev.to/mratashnejad) | [LinkedIn](https://www.linkedin.com/in/alirezaatashnejad/)  
-- [Stack Overflow](https://stackoverflow.com/users/13326869/alireza-atashnejad?tab=profile) | [Kaggle](https://www.kaggle.com/alirezaatashnejad) | [Buy Me A Coffee](https://www.buymeacoffee.com/alirezaata0)
+
+### 📊 GitHub Analysis
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mratashnejad&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mratashnejad&layout=compact&theme=dracula&hide=html,css" alt="Top Languages" height="180" />
+</p>
+
+---
+
+### 🌐 Digital Presence
+
+- **Portfolio:** [aliatish.com](https://aliatish.com/)
+- **Professional:** [LinkedIn](https://www.linkedin.com/in/alirezaatashnejad/) | [Stack Overflow](https://stackoverflow.com/users/13326869/alireza-atashnejad)
+- **Technical Articles:** [Dev.to](https://dev.to/mratashnejad)
+- **Data Science:** [Kaggle](https://www.kaggle.com/alirezaatashnejad)
+
+---
+
+### 📈 Activity Tracking
+![Profile Views](https://komarev.com/ghpvc/?username=mratashnejad&label=Profile%20views&color=2ea44f&style=flat-square)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mratashnejad&theme=dracula)
+
+---
+<p align="center">
+  <em>"Driven by logic, optimized by code."</em>
+</p>
