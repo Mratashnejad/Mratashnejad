@@ -104,7 +104,7 @@ Designed and developed a modular, scalable system for news publishing and live s
 Stack: C# /.NET, TypeScript, Next.js, REST APIs, Redis , GraphQL, Postgresql
 
 ---
-**Cannonbet.info | High-Traffic News Engine**
+**High-Traffic News Engine**
 
 Architected a high-concurrency news platform using Next.js and GraphQL. Optimized SSR and Nginx to handle massive traffic spikes with maximum uptime.
 Stack: Node.js, Next.js, GraphQL, PostgreSQL, Nginx, Docker
