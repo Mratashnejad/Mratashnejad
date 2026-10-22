@@ -43,9 +43,6 @@ System Design · Type Safety · API Design · CI/CD
 A platform connecting people with jobs, services,
 and opportunities.
 
-**[LeanElement](https://www.leanelement.com)**  
-An AI-powered product focused on nutrition,
-fitness, and healthier daily routines.
 
 ---
 
